@@ -1,2 +1,4 @@
 # NLOS-SVM
-DETECTION AND TRACKING OF OBJECTS OUTSIDE THE LINE OF SIGHT USING SUPPORT VECTOR MACHINES
+
+
+Detection an dTracking of Objects outside the line of sight using Support Vector Machines
